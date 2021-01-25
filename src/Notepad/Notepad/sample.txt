@@ -1,0 +1,11 @@
+﻿This is a Simple Notepad Windows Application that demonstrate the basic functionalities of:
+
+Input/Output in Windows, like:
+1. Open from file
+2. Save to file
+3. Save as to file
+4. Change font
+5. Toggle word wrapping
+
+
+2021 @ Parmajiat Foundation
